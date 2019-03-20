@@ -1,4 +1,7 @@
 
+
+
+
 $(document).ready(function() {
 	$('p.moreinfo').each(function() {
 		var tis = $(this), state = false, answer = tis.next('p.q').slideUp();
